@@ -1,4 +1,4 @@
-# 🧮 Day 1: SmallCalci (Python Calculator)
+#  Day 1: SmallCalci (Python Calculator)
 
 Welcome to **Day 1** of my **#10DaysOfProjectMaking** challenge 🚀
 Today’s project is a simple command-line calculator built using Python.
@@ -113,4 +113,3 @@ If you found this helpful or interesting, consider giving the repo a star ⭐
 
 ---
 
-> This is just the beginning. The projects will get more complex from here.
